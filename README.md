@@ -8,7 +8,7 @@
 
 
 
-### 🚀I'm a passionate coder dedicated to the art of perpetual improvement. Every day, I embark on a journey to refine my craft, armed with an ever-expanding toolbox of languages, frameworks, and skills.
+**🚀I'm a passionate coder dedicated to the art of perpetual improvement. Every day, I embark on a journey to refine my craft, armed with an ever-expanding toolbox of languages, frameworks, and skills.**
 
 ---
 
