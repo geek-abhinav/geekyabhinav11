@@ -51,7 +51,7 @@ Connect with me on LinkedIn, drop me an email, or explore my projects below. Let
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/geekabhinav11" target="_blank"><img src="https://your-linkedin-icon-url-here.com" alt="LinkedIn"></a>
-  <a href="mailto:youremail@example.com"><img src="https://your-email-icon-url-here.com" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/geekabhinav11" target="_blank"><img src="https://github.com/geekyabhinav11/geekyabhinav11/blob/main/linkedin.png" alt="LinkedIn" width="40" height="40"></a>
+  <a href="mailto:youremail@example.com"><img src="https://github.com/geekyabhinav11/geekyabhinav11/blob/main/mail.png" alt="Email" width="40" height="40"></a>
 </div>
 
