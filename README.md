@@ -1,16 +1,14 @@
 <div align="center">
   <h1>Hello, I'm Abhinav! 👋</h1>
-  <img src="https://your-image-url-here.com" alt="Abhinav's Profile Picture">
+  <img src="https://your-image-url-here.com" alt="Profile Picture">
   <p>Turning lines of code into works of art.</p>
 </div>
 
 ---
 
-### "Code, coffee, and creativity: My daily essentials."
 
 
-
-🚀I'm a passionate coder dedicated to the art of perpetual improvement. Every day, I embark on a journey to refine my craft, armed with an ever-expanding toolbox of languages, frameworks, and skills.
+### 🚀I'm a passionate coder dedicated to the art of perpetual improvement. Every day, I embark on a journey to refine my craft, armed with an ever-expanding toolbox of languages, frameworks, and skills.
 
 ---
 
